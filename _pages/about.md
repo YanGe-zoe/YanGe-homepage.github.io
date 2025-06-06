@@ -47,7 +47,6 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2025* Outstanding Student Award.
@@ -72,7 +71,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2021.06*,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻Research Experience
-
+[**Project**]
 <!-- Section 1 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
@@ -96,6 +95,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </div>
 </div>
 
+[**thesis**]
 <!-- Section 3 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/LFT-DP.png" alt="Image 3" width="120" style="margin-right: 20px;">
@@ -131,9 +131,8 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </div>
 </div>
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- 
+# 🌟 News
+
 <div style="margin-bottom: 20px;">
   <a href="https://ciomp.cas.cn/xwdt/zhxw/202307/t20230717_6810881.html" target="_blank" style="font-weight: bold; font-size: 16px;">
     First Prize in the 2023 CAS Laboratory Performance Competition
@@ -143,11 +142,11 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </p>
 </div>
 
-# 🔥 Interests
+# 🌱 Personal Growth
 Self-directed learning
 <p>
   <strong>Explore · Innovate · Grow</strong> — Whether it’s academic exchange or life sharing, feel free to connect with me.
   <br>
-  👉 <a href="file:///G:/PHD/web/src/preview.html" target="_blank">Click here to visit my other personal site</a>
+  👉 <a href="file:///G:/PHD/web/src/preview.html" target="_blank">Click here to explore personal growth with me.</a>
 </p>
 
