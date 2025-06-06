@@ -19,7 +19,7 @@ redirect_from:
 
 # 🔥 Biography
  I got the Master of Philosophy in Engineering science (By Research) in the University of Chinese Academy of Sciences(UCAS), Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) (Sep.2022 - June.2025)
-My supervisor is Prof.Bei Li (Former Senior Researcher at the University of Oxford .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences. General Manager of Hooke Instrument Co., Ltd.) and I have studied  in the X Lab.
+My supervisor is Prof.Bei Li (Former Senior Researcher at the University of Oxford .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences. General Manager of Hooke Instrument Co., Ltd.) and I have studied in the X Lab.
 
 Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from Shijiazhuang Tiedao University, and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
 # 💗 Research Interests
@@ -32,18 +32,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+🌟<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎉[Application and development of optical-based viscosity measurement technology](https://www.sciencedirect.com/science/article/pii/S0143816624003919)
+🎉[Application and development of optical-based viscosity measurement technology](https://www.sciencedirect.com/science/article/pii/S0143816624003919)<br>
 **Yan Ge**,Xingxing Huang, Xusheng Tang, Yuntong Wang, Fuyuan Chen, Dongyang Xiao, Peng Liang, Bei Li
+
 🎉[Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a)
+
 **Yan Ge**,Xingxing Huang, Baojian Zhang,Zhixiong Song, Xusheng Tang, Shuai Shao, Lujiale Guo, Peng Liang, Bei Li
+
 🎉[Raman cell sorting for single-cell research](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1389143/full)
+
 Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li
 🎉[Automatic Optimization System for Heat Source Layout of Multi-Chip Components Based on Multi-Software Integration](https://www.mdpi.com/2076-3417/14/11/4577)
+
 Xingxing Huang, Jiangcheng Hu, **Yan Ge**, Liang Guo, Kang Han, Jiahong Zhang
+
 🎉[Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29.)
+
 Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, Yu Wang, Zhixiong Song, Xiaodong Bao,J iabao Xu, Bei Li 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
