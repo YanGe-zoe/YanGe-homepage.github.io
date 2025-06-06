@@ -79,7 +79,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2021.06*,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻Research Experience
-<div class="paper-box" style="display: flex; align-items: center; margin-bottom: 20px;">
+新<div class="paper-box" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="paper-box-image" style="margin-right: 20px;">
     <img src="https://example.com/images/LFT-DP.TIF" alt="Paper 1" width="100%" style="max-width: 100px;">
   </div>
@@ -88,7 +88,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/LFT-DP.TIF' alt="sym" width="100%"></div></div>
+原来<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/LFT-DP.TIF' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -135,7 +135,7 @@ Research on the design of the precision viscosity measurement system for biologi
   
 [Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://www.sciencedirect.com/science/article/pii/S0143816624003919)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PDFDPM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a)
