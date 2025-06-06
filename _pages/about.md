@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 Biography
- I got the Master of Philosophy in Engineering science (By Research) in the University of Chinese Academy of Sciences(UCAS), Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) (Sep.2022 - June.2025)
-My supervisor is Prof.Bei Li (Former Senior Researcher at the University of Oxford .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences. General Manager of Hooke Instrument Co., Ltd.) and I have studied in the X Lab.
+ I got the Master of Philosophy in Engineering science (By Research) in the [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), [Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)](https://www.ciomp.ac.cn/) (Sep.2022 - June.2025)
+My supervisor is Prof.Bei Li (Former Senior Researcher at [the University of Oxford](https://spie.org/profile/Bei.Li-287736) .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, [Chinese Academy of Sciences](https://people.ucas.ac.cn/~beili?language=en). General Manager of [HOOKE INSTRUMENTS LTD.](https://en.hooke-instruments.com/)) and I have studied in the X Lab.
 
-Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from Shijiazhuang Tiedao University, and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
+Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
 # 💗 Research Interests
 My research interest includes microfluidics, biomedicine, and the application of AI to enhance precision medicine and personalized healthcare solutions.
 
