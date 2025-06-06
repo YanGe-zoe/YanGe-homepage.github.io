@@ -23,7 +23,7 @@ My supervisor is Prof.Bei Li (Former Senior Researcher at the University of Oxfo
 
 Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from Shijiazhuang Tiedao University, and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
 # 💗 Research Interests
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes microfluidics, biomedicine, and the application of AI to enhance precision medicine and personalized healthcare solutions.
 
 # 📝 Publications 
 
@@ -51,7 +51,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 # 🎖 Honors and Awards
 - *2025* Outstanding Student Award.
-- *2021.09* National Scholarship (Master).
+- *2024.09* National Scholarship (Master).
    For the first 0.2% graduate students in China.
 - *2024* Outstanding Student Award.
 - *2023* Outstanding Student Award.
