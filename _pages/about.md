@@ -16,6 +16,31 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🔥 Biography
+
+<span class='anchor' id='research-interests'></span>
+# 💗 Research Interests
+
+<span class='anchor' id='publications'></span>
+# 📝 Publications
+
+<span class='anchor' id='honors'></span>
+# 🥇 Honors and Awards
+
+<span class='anchor' id='educations'></span>
+# 📖 Educations
+
+<span class='anchor' id='research-activities'></span>
+# 💬 Research activities
+
+<span class='anchor' id='research-experiences'></span>
+# 💻Research Experiences
+
+<span class='anchor' id='news'></span>
+# 🌟 News
+
+<span class='anchor' id='personal-growth'></span>
+# 🌱 Personal Growth
 
 # 🔥 Biography
  I got the Master of Philosophy in Engineering science (By Research) in the [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), [Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)](https://www.ciomp.ac.cn/) (Sep.2022 - June.2025)
