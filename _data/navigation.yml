@@ -1,29 +1,29 @@
-# main links links
+# main links
 main:
-  - title: " Biography"
-    url: "/# -biography"
+  - title: "Biography"
+    url: "/#biography"
 
-  - title: "Research Interestss"
-    url: "/#-research-interests"
+  - title: "Research Interests"
+    url: "/#research-interests"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
-  - title: "Research activities"
-    url: "/#-research-activities"
+  - title: "Research Activities"
+    url: "/#research-activities"
 
   - title: "Research Experiences"
-    url: "/#-research-experiences"
+    url: "/#research-experiences"
 
-   - title: "News"
-     url: "/#-news"
-     
+  - title: "News"
+    url: "/#news"
+
   - title: "Personal Growth"
-    url: "/#-personal-growth
-    
+    url: "/#personal-growth"
+
