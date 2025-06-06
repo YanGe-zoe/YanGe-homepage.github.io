@@ -79,7 +79,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2021.06*,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻Research Experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/5080ab97c8c09445d4a5a773984711e.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 National Natural Science Foundation of China Project: "[Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics]()" (2023-Now)
   
