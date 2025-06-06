@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "Biography"
     url: "/#biography"
@@ -23,7 +22,3 @@ main:
 
   - title: "News"
     url: "/#news"
-
-  - title: "Personal Growth"
-    url: "/#personal-growth"
-
