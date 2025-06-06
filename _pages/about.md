@@ -84,6 +84,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
   <a href="https://your-link1.com" target="_blank">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
+  
   Using droplet microfluidics as a carrier, a highly efficient and stable Raman flow cytometry platform is established by optimizing the coupling between the droplet microfluidic system and the line-shaped laser beam, achieving a single-cell live detection accuracy of ≥ 90% and a sorting throughput of ≥ 200 cells/h. 
 •	Methods: By systematically comparing the characteristics and limitations of various microfluidic structures in optical detection integration, this study explores the adaptability and sensitivity differences of different optical detection methods (such as Raman spectroscopy, fluorescence imaging, and light scattering) in microscale environments, thereby constructing a microfluidic optical detection platform that combines high sensitivity, high throughput, and stability.
 
@@ -93,85 +94,29 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   <img src="images/5080ab97c8c09445d4a5a773984711e.jpg" alt="Image 2" width="120" style="margin-right: 20px;">
   <a href="https://your-link2.com" target="_blank">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
 </div>
+•	Aims: Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical manipulation technology (optical tweezers) to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/pic3.png" alt="Image 3" width="120" style="margin-right: 20px;">
-  <a href="https://your-link3.com" target="_blank">Link Text 3</a>
-</div>
+  <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <a href="https://your-link1.com" target="_blank">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
+  Research on the design of the precision viscosity measurement system for biologics based on a microfluidic system 
 
+ <!-- 修改这些链接和图片路径即可 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/pic4.png" alt="Image 4" width="120" style="margin-right: 20px;">
-  <a href="https://your-link4.com" target="_blank">Link Text 4</a>
-</div>
+  <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0143816624003919" target="_blank">Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics</a> 
 
+To address the issues of low accuracy and large sample consumption in traditional biopharmaceutical viscosity measurement techniques, this thesis proposes a novel microfluidic viscosity detection system that enables high-precision, low-sample-consumption, and cost-effective viscosity measurement.
+The main innovative work and achievements of this thesis are as follows:
+1.	A variable cross-section microfluidic chip design was proposed. Using photocuring 3D printing technology, a layered fabrication method for the microfluidic chip was developed, overcoming the limitations of traditional constant cross-section designs that rely on microscopic equipment and suffer from low measurement accuracy.
+2.	A high-throughput viscosity measurement system based on the microfluidic chip was designed. By connecting multiple gas channels to a chip holder, parallel multi-channel measurements were realized, significantly improving detection efficiency.
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/pic5.png" alt="Image 5" width="120" style="margin-right: 20px;">
-  <a href="https://your-link5.com" target="_blank">Link Text 5</a>
-</div>
-
-
-
-
-新<div class="paper-box" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="paper-box-image" style="margin-right: 20px;">
-    <img src="https://example.com/images/LFT-DP.TIF" alt="Paper 1" width="100%" style="max-width: 100px;">
-  </div>
-  <div class="paper-box-text">
-    <p>[Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics](https://github.com/YanGe-zoe/LFL-DP/tree/main#lfl-dp)</p>
-  </div>
-</div>
-
-原来<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/LFT-DP.TIF' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-  <div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">CVPR 2016</div>
-      <img src="https://example.com/images/LFT-DP.TIF" alt="sym" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p>Here is some text about the paper.</p>
-  </div>
-</div>
-National Natural Science Foundation of China Project: "[Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics]()" (2023-Now)
-
-  <div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">CVPR 2016</div>
-      <img src="https://example.com/images/5080ab97c8c09445d4a5a773984711e.jpg" alt="sym" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p>
-      [Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics](https://github.com/YanGe-zoe/LFL-DP/tree/main#lfl-dp)
-      .</p>
-  </div>
-</div>
-National Natural Science Foundation of China Project: "[Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics]()" (2023-Now)
-
-
-  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Jilin Provincial Science and Technology Development Program Project “Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument” (2023–2025)
-  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Research on the design of the precision viscosity measurement system for biologics based on a microfluidic system 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://www.sciencedirect.com/science/article/pii/S0143816624003919)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PDFDPM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a)
-
+  <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0143816624003919" target="_blank">Application and development of optical-based viscosity measurement technology</a> 
+  In this study, a variable cross-section microfluidic chip structure was designed and successfully manufactured by photocuring 3D printing technology. A digital-printed (DP) microfluidic viscometer was realized by a pressure-driven flow combined with optical imaging.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a" target="_blank">Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics</a> 
+  Viscosity, as a crucial property of liquids, plays a vital role in various fields, including food, chemical, pharmaceutical, personal care, and biomedicine. Therefore, it is of great significance to develop methods that can accurately measure the viscosity of liquids in various environments. To this end, researchers have developed a variety of viscosity measurement techniques. In view of the complexity of viscosity measurement, viscosity measurement in many cases depends on optical technology. Optical-based viscosity measurement technology has demonstrated excellent performance at both macro and micro levels because of its suitability for low sample volumes and the advantages of non-contact measurement. Besides, it can be easily combined with other technologies and is suitable for a wide range of application scenarios.
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
