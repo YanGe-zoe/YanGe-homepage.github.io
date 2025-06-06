@@ -44,13 +44,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 🎉[Raman cell sorting for single-cell research](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1389143/full)
 
-Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li
+Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li<br>
 🎉[Automatic Optimization System for Heat Source Layout of Multi-Chip Components Based on Multi-Software Integration](https://www.mdpi.com/2076-3417/14/11/4577)
 
 Xingxing Huang, Jiangcheng Hu, **Yan Ge**, Liang Guo, Kang Han, Jiahong Zhang
 
-🎉[Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29.)
-
+🎉[Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29.)<br>
 Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, Yu Wang, Zhixiong Song, Xiaodong Bao,J iabao Xu, Bei Li 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
