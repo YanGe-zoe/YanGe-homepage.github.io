@@ -56,13 +56,13 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2022.09 - 2025.06 (now)*, University of Chinese Academy of Sciences(UCAS), Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP). 
 - *2018.09 - 2022.06*, Shijiazhuang Tiedao University. 
 
-# 💬 Research activity
+# 💬 Research activities
 
 - *2023*,Light conference week 2023 ,Saturday,August 12,Conference Center,1st floor,Nanhu Hotel (2023)
 - *2023*,The 10th China Microfluidics High-End Academic Forum and the 3rd International Microfluidics Industry Forum (2023)
 - *2024*,The 11th China Microfluidics High-End Academic Forum and the 4th International Microfluidics Industry Forum (2024)
 
-# 💻Research Experience
+# 💻Research Experiences
 [**Project**]
 <!-- Section 1 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
