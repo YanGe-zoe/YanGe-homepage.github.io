@@ -38,15 +38,13 @@ My research interest includes neural machine translation and computer vision. I 
 🎉[Application and development of optical-based viscosity measurement technology](https://www.sciencedirect.com/science/article/pii/S0143816624003919)<br>
 **Yan Ge**,Xingxing Huang, Xusheng Tang, Yuntong Wang, Fuyuan Chen, Dongyang Xiao, Peng Liang, Bei Li
 
-🎉[Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a)
-
+🎉[Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a)<br>
 **Yan Ge**,Xingxing Huang, Baojian Zhang,Zhixiong Song, Xusheng Tang, Shuai Shao, Lujiale Guo, Peng Liang, Bei Li
 
-🎉[Raman cell sorting for single-cell research](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1389143/full)
-
+🎉[Raman cell sorting for single-cell research](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1389143/full)<br>
 Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li<br>
-🎉[Automatic Optimization System for Heat Source Layout of Multi-Chip Components Based on Multi-Software Integration](https://www.mdpi.com/2076-3417/14/11/4577)
 
+🎉[Automatic Optimization System for Heat Source Layout of Multi-Chip Components Based on Multi-Software Integration](https://www.mdpi.com/2076-3417/14/11/4577)<br>
 Xingxing Huang, Jiangcheng Hu, **Yan Ge**, Liang Guo, Kang Han, Jiahong Zhang
 
 🎉[Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29.)<br>
