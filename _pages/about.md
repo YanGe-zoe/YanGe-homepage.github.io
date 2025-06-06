@@ -79,6 +79,36 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2021.06*,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻Research Experience
+
+<!-- 修改这些链接和图片路径即可 -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/LFT-DP.TIF" alt="Image 1" width="120" style="margin-right: 20px;">
+  <a href="https://your-link1.com" target="_blank">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/5080ab97c8c09445d4a5a773984711e.jpg" alt="Image 2" width="120" style="margin-right: 20px;">
+  <a href="https://your-link2.com" target="_blank">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/pic3.png" alt="Image 3" width="120" style="margin-right: 20px;">
+  <a href="https://your-link3.com" target="_blank">Link Text 3</a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/pic4.png" alt="Image 4" width="120" style="margin-right: 20px;">
+  <a href="https://your-link4.com" target="_blank">Link Text 4</a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/pic5.png" alt="Image 5" width="120" style="margin-right: 20px;">
+  <a href="https://your-link5.com" target="_blank">Link Text 5</a>
+</div>
+
+
+
+
 新<div class="paper-box" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="paper-box-image" style="margin-right: 20px;">
     <img src="https://example.com/images/LFT-DP.TIF" alt="Paper 1" width="100%" style="max-width: 100px;">
