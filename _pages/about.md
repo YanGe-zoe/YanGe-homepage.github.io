@@ -15,16 +15,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='biography'></span>
+<span id="biography"></span>
 # 🔥 Biography
  I got the Master of Philosophy in Engineering science (By Research) in the [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), [Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)](https://www.ciomp.ac.cn/) (Sep.2022 - June.2025)
 My supervisor is Prof.Bei Li (Former Senior Researcher at [the University of Oxford](https://spie.org/profile/Bei.Li-287736) .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, [Chinese Academy of Sciences](https://people.ucas.ac.cn/~beili?language=en). General Manager of [HOOKE INSTRUMENTS LTD.](https://en.hooke-instruments.com/)) and I have studied in the X Lab.
 
 Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
-<span class='anchor' id='research-interests'></span>
+<span id='research-interests'></span>
 # 💗 Research Interests
 My research interest includes microfluidics, biomedicine, and the application of AI to enhance precision medicine and personalized healthcare solutions.
-<span class='anchor' id='publications'></span>
+<span id='publications'></span>
 # 📝 Publications 
 
 🎉[Application and development of optical-based viscosity measurement technology](https://www.sciencedirect.com/science/article/pii/S0143816624003919)<br>
@@ -41,7 +41,7 @@ Xingxing Huang, Jiangcheng Hu, **Yan Ge**, Liang Guo, Kang Han, Jiahong Zhang
 
 🎉[Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29.)<br>
 Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, Yu Wang, Zhixiong Song, Xiaodong Bao,J iabao Xu, Bei Li 
-<span class='anchor' id='honors'></span>
+<span id='honors'></span>
 # 🥇 Honors and Awards
 - *2025* Outstanding Student Award.
 - *2024.09* National Scholarship (Master).
@@ -51,17 +51,17 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2022* CIOMP Institute-Level Named Scholarship.
 - *2022* Freshman Scholarship.
 - *2022* Honor graduate.
- <span class='anchor' id='educations'></span>
+ <span id='educations'></span>
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, University of Chinese Academy of Sciences(UCAS), Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP). 
 - *2018.09 - 2022.06*, Shijiazhuang Tiedao University. 
-<span class='anchor' id='research-activities'></span>
+<span id='research-activities'></span>
 # 💬 Research activities
 
 - *2023*,Light conference week 2023 ,Saturday,August 12,Conference Center,1st floor,Nanhu Hotel (2023)
 - *2023*,The 10th China Microfluidics High-End Academic Forum and the 3rd International Microfluidics Industry Forum (2023)
 - *2024*,The 11th China Microfluidics High-End Academic Forum and the 4th International Microfluidics Industry Forum (2024)
-<span class='anchor' id='research-experiences'></span>
+<span id='research-experiences'></span>
 # 💻Research Experiences
 [**Project**]
 <!-- Section 1 -->
@@ -123,7 +123,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </div>
 </div>
 
-<span class='anchor' id='news'></span>
+<span id='news'></span>
 # 🌟 News
 
 <div style="margin-bottom: 20px;">
@@ -135,7 +135,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </p>
 </div>
 
-<span class='anchor' id='personal-growth'></span>
+<span id='personal-growth'></span>
 # 🌱 Personal Growth
 Self-directed learning
 <p>
