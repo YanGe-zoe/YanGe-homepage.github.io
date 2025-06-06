@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Yan Ge**,Xingxing Huang, Baojian Zhang,Zhixiong Song, Xusheng Tang, Shuai Shao, Lujiale Guo, Peng Liang, Bei Li
 
 🎉[Raman cell sorting for single-cell research](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1389143/full)<br>
-Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li<br>
+Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li
 
 🎉[Automatic Optimization System for Heat Source Layout of Multi-Chip Components Based on Multi-Software Integration](https://www.mdpi.com/2076-3417/14/11/4577)<br>
 Xingxing Huang, Jiangcheng Hu, **Yan Ge**, Liang Guo, Kang Han, Jiahong Zhang
