@@ -1,24 +1,27 @@
 main:
   - title: "Biography"
-    url: "/#biography"
+    url: "#biography"
 
   - title: "Research Interests"
-    url: "/#research-interests"
+    url: "#research-interests"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "#publications"
 
   - title: "Honors and Awards"
-    url: "/#honors"
+    url: "#honors"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "#educations"
 
   - title: "Research Activities"
-    url: "/#research-activities"
+    url: "#research-activities"
 
   - title: "Research Experiences"
-    url: "/#research-experiences"
+    url: "#research-experiences"
 
   - title: "News"
-    url: "/#news"
+    url: "#news"
+
+ - title: "Personal Growth"
+    url: "#personal-growth"
