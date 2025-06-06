@@ -133,7 +133,6 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - 
 <div style="margin-bottom: 20px;">
   <a href="https://ciomp.cas.cn/xwdt/zhxw/202307/t20230717_6810881.html" target="_blank" style="font-weight: bold; font-size: 16px;">
