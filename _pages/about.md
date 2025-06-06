@@ -25,14 +25,7 @@ Before that, I got a bachelor's degree in Mechanical Manufacturing and Automatio
 # 💗 Research Interests
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
-
-
 
 🎉[Application and development of optical-based viscosity measurement technology](https://www.sciencedirect.com/science/article/pii/S0143816624003919)<br>
 **Yan Ge**,Xingxing Huang, Xusheng Tang, Yuntong Wang, Fuyuan Chen, Dongyang Xiao, Peng Liang, Bei Li
@@ -138,5 +131,24 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </div>
 </div>
 
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 
+<div style="margin-bottom: 20px;">
+  <a href="https://ciomp.cas.cn/xwdt/zhxw/202307/t20230717_6810881.html" target="_blank" style="font-weight: bold; font-size: 16px;">
+    First Prize in the 2023 CAS Laboratory Performance Competition
+  </a>
+  <p style="margin-top: 5px;">
+    In July 2023, we were honored with the First Prize at the Chinese Academy of Sciences Laboratory Performance Competition, held by CIOMP (Changchun Institute of Optics, Fine Mechanics and Physics).
+  </p>
+</div>
 
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔥 Interests
+Self-directed learning
+<p>
+  <strong>Explore · Innovate · Grow</strong> — Whether it’s academic exchange or life sharing, feel free to connect with me.
+  <br>
+  👉 <a href="file:///G:/PHD/web/src/preview.html" target="_blank">Click here to visit my other personal site</a>
+</p>
+
