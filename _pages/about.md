@@ -122,6 +122,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
     </p>
   </div>
 </div>
+
 <span class='anchor' id='about-me'></span>
 # 🌟 News
 
@@ -134,6 +135,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   </p>
 </div>
 <span class='anchor' id='about-me'></span>
+
 # 🌱 Personal Growth
 Self-directed learning
 <p>
