@@ -22,7 +22,7 @@ redirect_from:
 My supervisor is Prof.Bei Li (Former Senior Researcher at the University of Oxford .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences. General Manager of Hooke Instrument Co., Ltd.) and I have studied  in the X Lab.
 
 Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from Shijiazhuang Tiedao University, and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
-# :bulb:Research Interests
+# 💗 Research Interests
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
