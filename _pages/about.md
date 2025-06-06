@@ -84,6 +84,9 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
   <a href="https://your-link1.com" target="_blank">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
+  Using droplet microfluidics as a carrier, a highly efficient and stable Raman flow cytometry platform is established by optimizing the coupling between the droplet microfluidic system and the line-shaped laser beam, achieving a single-cell live detection accuracy of ≥ 90% and a sorting throughput of ≥ 200 cells/h. 
+•	Methods: By systematically comparing the characteristics and limitations of various microfluidic structures in optical detection integration, this study explores the adaptability and sensitivity differences of different optical detection methods (such as Raman spectroscopy, fluorescence imaging, and light scattering) in microscale environments, thereby constructing a microfluidic optical detection platform that combines high sensitivity, high throughput, and stability.
+
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
