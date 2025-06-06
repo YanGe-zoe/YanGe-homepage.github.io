@@ -68,8 +68,6 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 - *2023*,The 10th China Microfluidics High-End Academic Forum and the 3rd International Microfluidics Industry Forum (2023)
 - *2024*,The 11th China Microfluidics High-End Academic Forum and the 4th International Microfluidics Industry Forum (2024)
 
-- *2021.06*,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻Research Experience
 [**Project**]
 <!-- Section 1 -->
@@ -86,7 +84,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 <!-- Section 2 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/5080ab97c8c09445d4a5a773984711e.jpg" alt="Image 2" width="120" style="margin-right: 20px;">
+  <img src="images/LFT-DP.png" alt="Image 2" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://your-link2.com" target="_blank" style="font-weight: bold; font-size: 16px;">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
     <p style="margin-top: 5px;">
