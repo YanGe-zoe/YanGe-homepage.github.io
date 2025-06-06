@@ -82,7 +82,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 <!-- 修改这些链接和图片路径即可 -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/LFT-DP.TIF" alt="Image 1" width="120" style="margin-right: 20px;">
+  <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
   <a href="https://your-link1.com" target="_blank">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
 </div>
 
