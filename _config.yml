@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Ge"
-description              : "M.Phil in University of Chinese Academy of Sciences(UCAS), Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)  "
+description              : "Postgraduate in Mechanical Manufacturing and Automation"
 repository               : "YanGe-zoe/YanGe-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yan Ge"
   avatar           : "images/5080ab97c8c09445d4a5a773984711e.jpg"
-  bio              : "University of Chinese Academy of Sciences(UCAS) "
+  bio              : "University of Chinese Academy of Sciences(UCAS)(Ranked 46th by CWUR) "
   location         : "Jilin, China"
   employer         :
   pubmed           : 
