@@ -94,7 +94,9 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   <div>
     <a href="https://github.com/YanGe-zoe/M.S.-Thesis" target="_blank" style="font-weight: bold; font-size: 16px;">Research on the Design of Precision Viscosity Measurement System for Biologics</a>
     <p style="margin-top: 5px;">
-      Research on the design of a precision viscosity measurement system for biologics based on microfluidic systems.
+           To address the issues of low accuracy and large sample consumption in traditional biopharmaceutical viscosity measurement, this study proposes a novel microfluidic detection system with high precision, low sample use, and low cost.<br>
+      • Innovative design of a variable cross-section chip using photocuring 3D printing.<br>
+      • Multi-channel high-throughput system enabled by parallel gas channel design.
     </p>
   </div>
 </div>
@@ -105,9 +107,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   <div>
     <a href="https://www.sciencedirect.com/science/article/pii/S0143816624003919" target="_blank" style="font-weight: bold; font-size: 16px;">Measurement of Fluid Viscosity Based on Pressure-Driven Flow Digital-Printed Microfluidics</a>
     <p style="margin-top: 5px;">
-      To address the issues of low accuracy and large sample consumption in traditional biopharmaceutical viscosity measurement, this study proposes a novel microfluidic detection system with high precision, low sample use, and low cost.<br>
-      • Innovative design of a variable cross-section chip using photocuring 3D printing.<br>
-      • Multi-channel high-throughput system enabled by parallel gas channel design.
+      In this study, a variable cross-section microfluidic chip structure was designed and successfully manufactured by photocuring 3D printing technology. A digital-printed (DP) microfluidic viscometer was realized by a pressure-driven flow combined with optical imaging.
     </p>
   </div>
 </div>
@@ -118,7 +118,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   <div>
     <a href="https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a" target="_blank" style="font-weight: bold; font-size: 16px;">Application and Development of Optical-Based Viscosity Measurement Technology</a>
     <p style="margin-top: 5px;">
-      Optical-based viscosity measurement has shown excellent macro- and micro-level performance, offering non-contact, low-volume, and highly integrable measurement solutions. A digital-printed (DP) microfluidic viscometer was developed using pressure-driven flow and optical imaging.
+      Viscosity, as a crucial property of liquids, plays a vital role in various fields, including food, chemical, pharmaceutical, personal care, and biomedicine. Therefore, it is of great significance to develop methods that can accurately measure the viscosity of liquids in various environments. To this end, researchers have developed a variety of viscosity measurement techniques. In view of the complexity of viscosity measurement, viscosity measurement in many cases depends on optical technology. Optical-based viscosity measurement technology has demonstrated excellent performance at both macro and micro levels because of its suitability for low sample volumes and the advantages of non-contact measurement. Besides, it can be easily combined with other technologies and is suitable for a wide range of application scenarios.
     </p>
   </div>
 </div>
