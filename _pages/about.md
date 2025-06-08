@@ -66,7 +66,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 [**Project**]
 <!-- Section 1 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/LFT-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <img src="images/LFL-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://github.com/YanGe-zoe/LFL-DP/blob/main/README.md" style="font-weight: bold; font-size: 16px;">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
     <p style="margin-top: 5px;">
