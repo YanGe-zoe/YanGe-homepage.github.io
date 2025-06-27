@@ -106,7 +106,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/LFT-DP.png" alt="Image 4" width="120" style="margin-right: 20px;">
   <div>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0143816624003919" target="_blank" style="font-weight: bold; font-size: 16px;">Measurement of Fluid Viscosity Based on Pressure-Driven Flow Digital-Printed Microfluidics</a>
+    <a href="https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a" target="_blank" style="font-weight: bold; font-size: 16px;">Measurement of Fluid Viscosity Based on Pressure-Driven Flow Digital-Printed Microfluidics</a>
     <p style="margin-top: 5px;">
       In this study, a variable cross-section microfluidic chip structure was designed and successfully manufactured by photocuring 3D printing technology. A digital-printed (DP) microfluidic viscometer was realized by a pressure-driven flow combined with optical imaging.
     </p>
@@ -117,7 +117,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/LFT-DP.png" alt="Image 5" width="120" style="margin-right: 20px;">
   <div>
-    <a href="https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a" target="_blank" style="font-weight: bold; font-size: 16px;">Application and Development of Optical-Based Viscosity Measurement Technology</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0143816624003919" target="_blank" style="font-weight: bold; font-size: 16px;">Application and Development of Optical-Based Viscosity Measurement Technology</a>
     <p style="margin-top: 5px;">
       Viscosity, as a crucial property of liquids, plays a vital role in various fields, including food, chemical, pharmaceutical, personal care, and biomedicine. Therefore, it is of great significance to develop methods that can accurately measure the viscosity of liquids in various environments. To this end, researchers have developed a variety of viscosity measurement techniques. In view of the complexity of viscosity measurement, viscosity measurement in many cases depends on optical technology. Optical-based viscosity measurement technology has demonstrated excellent performance at both macro and micro levels because of its suitability for low sample volumes and the advantages of non-contact measurement. Besides, it can be easily combined with other technologies and is suitable for a wide range of application scenarios.
     </p>
