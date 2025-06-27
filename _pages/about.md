@@ -79,7 +79,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 <!-- Section 2 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/LFT-DP.png" alt="Image 2" width="120" style="margin-right: 20px;">
+  <img src="images/Schematic of the Gravity-Driven Single-Droplet Generator.png" alt="Image 2" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://https://github.com/YanGe-zoe/G-D/blob/main/README.md" target="_blank" style="font-weight: bold; font-size: 16px;">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
     <p style="margin-top: 5px;">
