@@ -115,7 +115,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 <!-- Section 5 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/LFT-DP.png" alt="Image 5" width="120" style="margin-right: 20px;">
+  <img src="images/viscometer.jpg" alt="Image 5" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://www.sciencedirect.com/science/article/pii/S0143816624003919" target="_blank" style="font-weight: bold; font-size: 16px;">Application and Development of Optical-Based Viscosity Measurement Technology</a>
     <p style="margin-top: 5px;">
