@@ -91,7 +91,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 [**thesis**]
 <!-- Section 3 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/LFT-DP.png" alt="Image 3" width="120" style="margin-right: 20px;">
+  <img src="images/Velocity simulation diagram.png" alt="Image 3" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://github.com/YanGe-zoe/M.S.-Thesis" target="_blank" style="font-weight: bold; font-size: 16px;">Research on the Design of Precision Viscosity Measurement System for Biologics</a>
     <p style="margin-top: 5px;">
