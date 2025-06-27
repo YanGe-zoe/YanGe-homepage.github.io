@@ -104,7 +104,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
 
 <!-- Section 4 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/LFT-DP.png" alt="Image 4" width="120" style="margin-right: 20px;">
+  <img src="images/DP microfluidic.png" alt="Image 4" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a" target="_blank" style="font-weight: bold; font-size: 16px;">Measurement of Fluid Viscosity Based on Pressure-Driven Flow Digital-Printed Microfluidics</a>
     <p style="margin-top: 5px;">
