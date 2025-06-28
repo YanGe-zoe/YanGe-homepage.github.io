@@ -83,7 +83,7 @@ Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, 
   <div>
     <a href="https://https://https://github.com/YanGe-zoe/G-D" target="_blank" style="font-weight: bold; font-size: 16px;">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
     <p style="margin-top: 5px;">
-      • Aims: Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical tweezers to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
+      Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical tweezers to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
     </p>
   </div>
 </div>
