@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span id="biography"></span>
-  </div>
 # 🔥 Biography
  I obtained a Master of Engineering degree from .[University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/)( Ranked 46th by CWUR), [Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)](https://www.ciomp.ac.cn/) (Sep.2022 - June.2025)
 My supervisor is Prof.Bei Li (Former Senior Researcher at [the University of Oxford](https://spie.org/profile/Bei.Li-287736) .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, [Chinese Academy of Sciences](https://people.ucas.ac.cn/~beili?language=en). General Manager of [HOOKE INSTRUMENTS LTD.](https://en.hooke-instruments.com/)) and I have studied in the X Lab.
