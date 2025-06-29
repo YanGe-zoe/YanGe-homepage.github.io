@@ -14,8 +14,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-<div style="display: none;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ann8W4x9wp64ntDFB1c9wCujMowzj0LPFlIhXm1HQ9M"></script>
+
 <span id="biography"></span>
   </div>
 # 🔥 Biography
@@ -23,6 +22,10 @@ redirect_from:
 My supervisor is Prof.Bei Li (Former Senior Researcher at [the University of Oxford](https://spie.org/profile/Bei.Li-287736) .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, [Chinese Academy of Sciences](https://people.ucas.ac.cn/~beili?language=en). General Manager of [HOOKE INSTRUMENTS LTD.](https://en.hooke-instruments.com/)) and I have studied in the X Lab.
 
 Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from [Shijiazhuang TiedaoUniversity](https://www.stdu.edu.cn/), and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
+<!-- Hidden ClustrMaps script -->
+<div style="display: none;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ann8W4x9wp64ntDFB1c9wCujMowzj0LPFlIhXm1HQ9M"></script>
+</div>
 <span id="research-interests"></span>
 # 💗 Research Interests
 My research interest includes microfluidics, biomedicine, and the application of AI to enhance precision medicine and personalized healthcare solutions.
