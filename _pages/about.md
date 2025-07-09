@@ -27,7 +27,7 @@ Before that, I got a bachelor's degree in Mechanical Manufacturing and Automatio
 </div>
 <span id="research-interests"></span>
 # 💗 Research Interests
-My research interest includes microfluidics, biomedicine, and the application of AI to enhance precision medicine and personalized healthcare solutions.
+My research interests include biosensors, super-resolution imaging, and micro-robotics, with a broader focus on microfluidics, biomedical engineering, and the integration of artificial intelligence to advance precision medicine and personalized healthcare solutions.
 <span id="publications"></span>
 # 📝 Publications 
 
