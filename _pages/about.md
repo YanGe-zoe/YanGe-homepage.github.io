@@ -45,9 +45,11 @@ Xingxing Huang, Jiangcheng Hu, **Yan Ge**, Liang Guo, Kang Han, Jiahong Zhang
 
 🎉[Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29.)<br>
 Yuntong Wang, Yue Qu, Huan Wang a, Ying Xue , Peng Liang, **Yan Ge**, Hao Peng, Yu Wang, Zhixiong Song, Xiaodong Bao,J iabao Xu, Bei Li 
-<span id="honors-and-awards"></span>
-🎉[Siamese network for classification of Raman spectroscopy with inter-instrument variation for biological applications](https://www.sciencedirect.com/science/article/pii/S1386142524013738)
+🎉[Siamese network for classification of Raman spectroscopy with inter-instrument variation for biological applications](https://www.sciencedirect.com/science/article/pii/S1386142524013738)<br>
 Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan Ge**, Bei Li
+
+<span id="honors-and-awards"></span>
+
 # 🥇 Honors and Awards
 - *2025* Outstanding Student Award.
 - *2024.09* National Scholarship (Master).
