@@ -87,7 +87,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
 </div>
 <!-- Section 2 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/LFL-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <img src="images/chip.png" alt="Image 1" width="120" style="margin-right: 20px;">
   <div>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29." style="font-weight: bold; font-size: 16px;">Research on Functionalized Microwell Array-Based Laser Ejection for High-Precision Single-Cell Sorting</a>
     <p style="margin-top: 5px;">
