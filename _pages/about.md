@@ -103,6 +103,8 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
   <div>
     <a href="https://github.com/YanGe-zoe/G-D" target="_blank" style="font-weight: bold; font-size: 16px;">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
     <p style="margin-top: 5px;">
+     •	Aims： 1、To address the limitation of existing pump-driven droplet microfluidic technologies, which are unable to generate microdroplets at relatively low speeds.
+               2、 To overcome the inability of current droplet microfluidic systems to generate a single microdroplet at a specific moment on demand.
       Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical tweezers to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
     </p>
   </div>
