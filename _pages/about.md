@@ -85,8 +85,19 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
     </p>
   </div>
 </div>
-
 <!-- Section 2 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="images/LFL-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
+  <div>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0039914024015285#:~:text=We%20present%20a%20microwell-assembled%20aluminum%20substrate%20platform%20that,improves%20signal%20stability%20and%20the%20signal-to-noise%20ratio%20%28SNR%29." style="font-weight: bold; font-size: 16px;">Research on Functionalized Microwell Array-Based Laser Ejection for High-Precision Single-Cell Sorting</a>
+    <p style="margin-top: 5px;">
+      •	To address the limitations of laser-induced forward transfer (LIFT) techniques, where air-dried planar substrates compromise cell viability and limit downstream analysis, while liquid-phase operations suffer from low single-cell capture efficiency, poor spatial targeting accuracy, increased energy-induced cellular damage, and signal instability caused by cell mobility and aggregation.<br>
+      •	Methods: Designed a microcavity-array-assembled aluminum substrate. By leveraging the confinement effect of the microcavities and the high reflectivity of the aluminum surface, the platform minimized interference from cell aggregation and movement, thereby enhancing Raman signal stability and improving the signal-to-noise ratio in liquid environments.
+
+    </p>
+  </div>
+</div>
+<!-- Section 3 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/Schematic of the Gravity-Driven Single-Droplet Generator.png" alt="Image 2" width="120" style="margin-right: 20px;">
   <div>
@@ -98,7 +109,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
 </div>
 
 [**thesis**]
-<!-- Section 3 -->
+<!-- Section 4 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/Velocity simulation diagram.png" alt="Image 3" width="120" style="margin-right: 20px;">
   <div>
@@ -111,7 +122,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
   </div>
 </div>
 
-<!-- Section 4 -->
+<!-- Section 5 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/DP microfluidic.png" alt="Image 4" width="120" style="margin-right: 20px;">
   <div>
@@ -122,7 +133,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
   </div>
 </div>
 
-<!-- Section 5 -->
+<!-- Section 6 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/viscometer.jpg" alt="Image 5" width="120" style="margin-right: 20px;">
   <div>
