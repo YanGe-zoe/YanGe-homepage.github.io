@@ -17,17 +17,17 @@ redirect_from:
 
 <span id="biography"></span>
 # 🔥 Biography
- I obtained a Master of Engineering degree from .[University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/)( Ranked 46th by CWUR), [Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)](https://www.ciomp.ac.cn/) (Sep.2022 - June.2025)
-My supervisor is Prof.[Bei Li](https://spie.org/profile/Bei.Li-287736) (Former Senior Researcher at [the University of Oxford](https://spie.org/profile/Bei.Li-287736) .Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, [Chinese Academy of Sciences](https://people.ucas.ac.cn/~beili?language=en). General Manager of [HOOKE INSTRUMENTS LTD.](https://en.hooke-instruments.com/)) and I have studied in the X Lab.
+ I obtained a Master of Engineering degree from.[University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/)( Ranked 46th by CWUR), [Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP)](https://www.ciomp.ac.cn/) (Sep.2022 - June 2025)
+My supervisor is Prof.[Bei Li](https://spie.org/profile/Bei.Li-287736) (Former Senior Researcher at [the University of Oxford](https://spie.org/profile/Bei.Li-287736).Researcher at the National Key Laboratory of Advanced Manufacturing of Optical Systems, Changchun Institute of Optics, Fine Mechanics and Physics, [Chinese Academy of Sciences](https://people.ucas.ac.cn/~beili?language=en). General Manager of [HOOKE INSTRUMENTS LTD.](https://en.hooke-instruments.com/), and I have studied in the X Lab.
 
-Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), and I was conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June.2022)
+Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), and I conducted research on the design of liquid fly ash mixing equipment and related assembly conveyance devices under the guidance of Prof. Kang Su(Sept.2018 - June 2022)
 <!-- Hidden ClustrMaps script -->
 <div style="display: none;">
  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=AfCWMLyixkN5REmrAjoM4F8bMYnk47BtxyjIMar8Kpk"></script>
 </div>
 <span id="research-interests"></span>
 # 💗 Research Interests
-My overarching research interests focus on the design and development of micro/nanoscale systems such as biosensors, microrobots, and microfluidic platforms, supported by advanced techniques like optical imaging to enhance system-level sensing and manipulation capabilities. I am also interested in the interdisciplinary integration of biomedical engineering and artificial intelligence, with the aim of advancing precision medicine and personalized healthcare solutions.
+My overarching research interests focus on the design and development of micro/nanoscale systems such as biosensors, microrobots, and microfluidic platforms, supported by advanced techniques like optical imaging to enhance system-level sensing and manipulation capabilities. I am also interested in the interdisciplinary integration of biomedical engineering and artificial intelligence, intending to advance precision medicine and personalized healthcare solutions.
 <span id="publications"></span>
 # 📝 Publications 
 
@@ -35,7 +35,7 @@ My overarching research interests focus on the design and development of micro/n
 **Yan Ge**,Xingxing Huang, Xusheng Tang, Yuntong Wang, Fuyuan Chen, Dongyang Xiao, Peng Liang, Bei Li
 
 🎉[Measurement of fluid viscosity based on pressure-driven flow digital-printed microfluidics](https://pubs.rsc.org/en/content/articlelanding/2025/an/d4an01550a)<br>
-**Yan Ge**,Xingxing Huang, Baojian Zhang,Zhixiong Song, Xusheng Tang, Shuai Shao, Lujiale Guo, Peng Liang, Bei Li
+**Yan Ge**, Xingxing Huang, Baojian Zhang, Zhixiong Song, Xusheng Tang, Shuai Shao, Lujiale Guo, Peng Liang, Bei Li
 
 🎉[Raman cell sorting for single-cell research](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1389143/full)<br>
 Xusheng Tang, Qingyi Wu, Lindong Shang, Kunxiang Liu,**Yan Ge**, Peng Liang, Bei Li
@@ -80,7 +80,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
   <div>
     <a href="https://github.com/YanGe-zoe/LFL-DP/blob/main/README.md" style="font-weight: bold; font-size: 16px;">Research on High-Throughput Raman Single-Cell Sorting Technology Based on Line-Focused Light and Droplet Microfluidics</a>
     <p style="margin-top: 5px;">
-      • Aims：Using droplet microfluidics as a carrier, a highly efficient and stable Raman flow cytometry platform is established by optimizing the coupling between the droplet microfluidic system and the line-shaped laser beam, achieving a single-cell live detection accuracy of ≥ 90% and a sorting throughput of ≥ 200 cells/h.<br>
+      • Aims： Using droplet microfluidics as a carrier, a highly efficient and stable Raman flow cytometry platform is established by optimizing the coupling between the droplet microfluidic system and the line-shaped laser beam, achieving a single-cell live detection accuracy of ≥ 90% and a sorting throughput of ≥ 200 cells/h.<br>
       • Methods: This study explores the adaptability and sensitivity differences of different optical detection methods (e.g., Raman spectroscopy, fluorescence imaging, light scattering) in microscale environments, thereby constructing a high-throughput, high-sensitivity microfluidic optical detection platform.
     </p>
   </div>
@@ -106,6 +106,19 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
      •	Aims： 1、To address the limitation of existing pump-driven droplet microfluidic technologies, which are unable to generate microdroplets at relatively low speeds.
                2、 To overcome the inability of current droplet microfluidic systems to generate a single microdroplet at a specific moment on demand.
       Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical tweezers to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
+    </p>
+  </div>
+</div>
+<!-- Section 4 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="images/Schematic of the Gravity-Driven Single-Droplet Generator.png" alt="Image 2" width="120" style="margin-right: 20px;">
+  <div>
+    <a href="https://github.com/YanGe-zoe/G-D" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Intelligent Thermal Control Technology of Space Telescopes Based on Machine Learning </a>
+    <p style="margin-top: 5px;">
+    •	Conducted thermal simulations of Multi-Chip Modules (MCM) using UG to generate benchmark data and reference models for the team’s in-development fully automated optimization algorithm.
+      
+•	Acquired skills in 3D modeling, finite element meshing, and thermal simulation operations, with simulation data contributing to a co-authored peer-reviewed publication.
+
     </p>
   </div>
 </div>
