@@ -114,7 +114,6 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
   <img src="images/Thermal simulation of PCB boards.png" alt="Image 2" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://github.com/YanGe-zoe/TCT" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Intelligent Thermal Control Technology of Space Telescopes Based on Machine Learning </a>
-    <a href="https://" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Intelligent Thermal Control Technology of Space Telescopes Based on Machine Learning </a>
     <p style="margin-top: 5px;">
     •	Conducted thermal simulations of Multi-Chip Modules (MCM) using UG to generate benchmark data and reference models for the team’s in-development fully automated optimization algorithm.<br>
       •	Acquired skills in 3D modeling, finite element meshing, and thermal simulation operations, with simulation data contributing to a co-authored peer-reviewed publication.
