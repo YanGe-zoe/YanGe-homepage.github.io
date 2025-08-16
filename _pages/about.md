@@ -178,5 +178,6 @@ Self-directed learning
   <strong>Explore · Innovate · Grow</strong> — Whether it’s academic exchange or life sharing, feel free to connect with me.
   <br>
   👉 <a href="file:///G:/PHD/web/src/preview.html" target="_blank">Click here to explore personal growth with me.</a>
+  (To be developed)
 </p>
 
