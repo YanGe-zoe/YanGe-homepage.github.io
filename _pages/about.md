@@ -103,9 +103,9 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
   <div>
     <a href="https://github.com/YanGe-zoe/G-D" target="_blank" style="font-weight: bold; font-size: 16px;">Development of a Gravity-Driven Optical Tweezer Microfluidic Single-Cell Sorting Instrument</a>
     <p style="margin-top: 5px;">
-     •	Aims： 1、To address the limitation of existing pump-driven droplet microfluidic technologies, which are unable to generate microdroplets at relatively low speeds.
-               2、 To overcome the inability of current droplet microfluidic systems to generate a single microdroplet at a specific moment on demand.
-      Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical tweezers to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
+     •	Aims： 1、To address the limitation of existing pump-driven droplet microfluidic technologies, which are unable to generate microdroplets at relatively low speeds.<br>
+               2、 To overcome the inability of current droplet microfluidic systems to generate a single microdroplet at a specific moment on demand.<br>
+      •	Methods:  Develop a microfluidic single-cell sorting platform that integrates gravity-driven mechanisms with optical tweezers to enable high-throughput, non-destructive, and precise manipulation and sorting of single cells.
     </p>
   </div>
 </div>
@@ -116,9 +116,8 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
     <a href="https://github.com/YanGe-zoe/TCT" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Intelligent Thermal Control Technology of Space Telescopes Based on Machine Learning </a>
     <a href="https://" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Intelligent Thermal Control Technology of Space Telescopes Based on Machine Learning </a>
     <p style="margin-top: 5px;">
-    •	Conducted thermal simulations of Multi-Chip Modules (MCM) using UG to generate benchmark data and reference models for the team’s in-development fully automated optimization algorithm.
-      
-•	Acquired skills in 3D modeling, finite element meshing, and thermal simulation operations, with simulation data contributing to a co-authored peer-reviewed publication.
+    •	Conducted thermal simulations of Multi-Chip Modules (MCM) using UG to generate benchmark data and reference models for the team’s in-development fully automated optimization algorithm.<br>
+      •	Acquired skills in 3D modeling, finite element meshing, and thermal simulation operations, with simulation data contributing to a co-authored peer-reviewed publication.
 
     </p>
   </div>
