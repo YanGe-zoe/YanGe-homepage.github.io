@@ -73,7 +73,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
 - *2024*,[Light conference 2024](https://lc.lightconference.cn/light/17.html)
 <span id="research-experiences"></span>
 # 💻Research Experiences
-[**Project**]
+[**Projects**]
 <!-- Section 1 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/LFL-DP.png" alt="Image 1" width="120" style="margin-right: 20px;">
