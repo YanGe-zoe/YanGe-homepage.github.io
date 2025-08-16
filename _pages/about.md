@@ -111,7 +111,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
 </div>
 <!-- Section 4 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="images/Schematic of the Gravity-Driven Single-Droplet Generator.png" alt="Image 2" width="120" style="margin-right: 20px;">
+  <img src="images/Thermal simulation of PCB boards" alt="Image 2" width="120" style="margin-right: 20px;">
   <div>
     <a href="https://github.com/YanGe-zoe/G-D" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Intelligent Thermal Control Technology of Space Telescopes Based on Machine Learning </a>
     <p style="margin-top: 5px;">
