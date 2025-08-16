@@ -167,7 +167,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
     First Prize in the 2023 CAS Laboratory Performance Competition
   </a>
   <p style="margin-top: 5px;">
-    In July 2023, we were honored with the First Prize at the Chinese Academy of Sciences Laboratory Performance Competition, held by CIOMP (Changchun Institute of Optics, Fine Mechanics and Physics).
+    In July 2023, we were honored with the First Prize at the Chinese Academy of Sciences Laboratory Performance Competition, held by UCAS.
   </p>
 </div>
 
