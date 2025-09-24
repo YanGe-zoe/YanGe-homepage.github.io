@@ -89,7 +89,7 @@ Xiaodong Bao, Lindong Shang, Fuyuan Chen, Hao Peng, Yu Wang, Xusheng Tang,**Yan 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="images/chip.png" alt="Image 1" width="120" style="margin-right: 20px;">
   <div>
-<a href="https://github.com/YanGe-zoe/MICROTRAP." style="font-weight: bold; font-size: 16px;">Research on Functionalized Microwell Array-Based Laser Ejection for High-Precision Single-Cell Sorting</a>
+<a href="https://github.com/YanGe-zoe/MICROTRAP" target="_blank" style="font-weight: bold; font-size: 16px;">Research on Functionalized Microwell Array-Based Laser Ejection for High-Precision Single-Cell Sorting</a>
     <p style="margin-top: 5px;">
       •	Aims： To address the limitations of laser-induced forward transfer (LIFT) techniques, where air-dried planar substrates compromise cell viability and limit downstream analysis, while liquid-phase operations suffer from low single-cell capture efficiency, poor spatial targeting accuracy, increased energy-induced cellular damage, and signal instability caused by cell mobility and aggregation.<br>
       •	Methods: Designed a microcavity-array-assembled aluminum substrate. By leveraging the confinement effect of the microcavities and the high reflectivity of the aluminum surface, the platform minimized interference from cell aggregation and movement, thereby enhancing Raman signal stability and improving the signal-to-noise ratio in liquid environments.
